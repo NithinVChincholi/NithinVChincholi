@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="270" viewBox="0 0 1100 270" role="img" aria-labelledby="title desc">
+<title id="title">Nithin V Chincholi</title><desc id="desc">Curiosity to code to something useful. Web development and SQL.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101827"/><stop offset="1" stop-color="#173a3c"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#a9d7cf" stroke-opacity=".08"/></pattern></defs>
+<rect width="1100" height="270" rx="22" fill="url(#bg)"/><rect width="1100" height="270" rx="22" fill="url(#grid)"/>
+<circle cx="1030" cy="48" r="105" fill="#5ed6bf" opacity=".06"/>
+<text x="52" y="55" fill="#64dfc5" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="3">HELLO, GITHUB.</text>
+<text x="48" y="123" fill="#f5f5ed" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="53">Nithin V Chincholi</text>
+<text x="52" y="169" fill="#bad1cf" font-family="Segoe UI,Arial,sans-serif" font-size="23">Curiosity → Code → Something useful.</text>
+<rect x="52" y="203" width="103" height="29" rx="14" fill="#294746"/><text x="103" y="223" text-anchor="middle" fill="#c6eee5" font-family="Segoe UI,Arial,sans-serif" font-size="12">BUILD + LEARN</text>
+<text x="178" y="223" fill="#9cbab7" font-family="Segoe UI,Arial,sans-serif" font-size="13">WEB EXPERIENCES  /  SQL EXPLORATION</text>
+<rect x="885" y="95" width="143" height="102" rx="12" fill="#172b36" stroke="#3d6c68"/>
+<circle cx="904" cy="112" r="4" fill="#f4775b"/><circle cx="917" cy="112" r="4" fill="#d6c46f"/><circle cx="930" cy="112" r="4" fill="#64dfc5"/>
+<text x="912" y="166" fill="#64dfc5" font-family="monospace" font-size="35">&lt;/&gt;</text>
+</svg>

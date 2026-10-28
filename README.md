@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://crowd-says-2kl9.onrender.com">Play my latest project</a> &nbsp;·&nbsp;
+  <a href="https://impostor-game-lap7.onrender.com">Play my latest project</a> &nbsp;·&nbsp;
   <a href="https://github.com/NithinVChincholi?tab=repositories">Explore my repositories</a>
 </p>
 
@@ -18,9 +18,13 @@ I like turning an idea into something you can actually try. My projects range fr
 
 - **Building:** interactive web experiences with JavaScript and Node.js.
 - **Exploring:** data cleaning, SQL queries, and business questions in real datasets.
-- **Recent launch:** **Crowd Says**, a game built with AI assistance and deployed for anyone to play.
+- **Recent launch:** **Impostor**, a word game built with AI assistance and hosted publicly on Render. Play solo with practice bots or pass one device among friends.
 
-## A couple of things I've made
+## Things I've made
+
+<a href="https://impostor-game-lap7.onrender.com">
+  <img src="https://raw.githubusercontent.com/NithinVChincholi/impostor-game/main/preview.jpg" alt="Impostor — a dark tabletop word game with shadow player cards, solo bots, and pass-and-play" width="100%" />
+</a>
 
 <a href="https://crowd-says-2kl9.onrender.com">
   <img src="assets/crowd-says-cover.png" alt="Crowd Says — solo with bots, play with friends, team battles" width="100%" />
@@ -28,6 +32,7 @@ I like turning an idea into something you can actually try. My projects range fr
 
 | Project | What you can explore | Links |
 | --- | --- | --- |
+| **Impostor** | A word game for 4–6 players with private role cards, related-word rounds, discussion, voting, tie-breaks, and scoring. Solo practice bots or friends sharing one device. Built with HTML, CSS, and JavaScript; publicly hosted on Render. | [Play it](https://impostor-game-lap7.onrender.com) · [Source](https://github.com/NithinVChincholi/impostor-game) |
 | **Crowd Says** | A live survey guessing game: practice against casual bots, compete individually, or play in teams. Room invites, timed rounds, hidden answer boards, server-side scoring, and reconnects. Built with Node.js and browser JavaScript; answer boards are AI predictions, not real survey data. | [Play it](https://crowd-says-2kl9.onrender.com) · [Source](https://github.com/NithinVChincholi/crowd-says) |
 | **Retail Sales Analysis** | SQL practice covering data cleaning, exploratory analysis, category sales, customer behavior, and business questions. | [Explore the project](https://github.com/NithinVChincholi/sql_Retail_Sales_P1) |
 
